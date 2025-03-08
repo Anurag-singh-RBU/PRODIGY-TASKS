@@ -1,1 +1,1 @@
-
+This project features an interactive navigation menu that remains fixed on the screen. It changes its background color when the user scrolls and applies a hover effect on menu items. Built using HTML, CSS, and JavaScript, the menu enhances user experience with smooth transitions and dynamic styling.
